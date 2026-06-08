@@ -1,6 +1,6 @@
 # Toronto Marine Robotics (TMR) 🌊🤖
 
-Welcome to the official GitHub home of **Toronto Marine Robotics**, a premier student-led autonomous underwater vehicle (AUV) design team at the University of Toronto (St. George Campus). 
+Welcome to the official GitHub home of **Toronto Marine Robotics**, a student-led autonomous underwater vehicle (AUV) design team at the University of Toronto (St. George Campus). 
 
 Our mission is to bridge the gap in U of T's robotics portfolio by designing, manufacturing, and programming cutting-edge marine vehicles to compete at the international **RoboSub** competition.
 
